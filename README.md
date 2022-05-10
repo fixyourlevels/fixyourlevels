@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fixyourlevels
 - 👀 I’m interested in music, languages, and programming.
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and Python 3
 - 💞️ I’m looking to collaborate on music, audio/visual, or programming interesting projects.
 - 📫 How to reach me: you can find me @fixyourlevels pretty much anywhere.
 
